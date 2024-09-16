@@ -18,7 +18,7 @@ I am currently learning:
 - **Languages:** Python, Java
 - **Data Analytics Tools:** Excel, Power BI
 - **Version Control:** GitHub
-- - **Frameworks/Libraries:** in progress...
+- **Frameworks/Libraries:** in progress...
 
 ## 📈 GitHub Stats
 
